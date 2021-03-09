@@ -37,11 +37,12 @@ search locations using flicker api
     
     Example Users: 
     1) Client
-     email: dummy@geo.com ,  password: @1234567abc
+     email: dummy@geo.com 
+     password: @1234567abc
 	2) Admin
 	 username: super
 	 email: super@geo.com
-	password: @1234567abc
+	 password: @1234567abc
 	
 ## References:-
 
@@ -51,3 +52,5 @@ search locations using flicker api
     
 ## Live Demo:-
     https://geoappup.herokuapp.com/
+    https://geoappup.herokuapp.com/admin
+    
